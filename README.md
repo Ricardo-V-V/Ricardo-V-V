@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Ricardo Villalobos
 
-🚀 **Full-Stack Developer**
+🚀 **Full-End Developer**
 
-I’m a passionate full-stack developer with experience in building scalable web applications, crafting user-friendly interfaces, and developing robust back-end systems. I love translating ideas into functional and responsive digital experiences.
+I’m a passionate front-end developer with experience in building interactive and responsive web applications. I specialize in crafting seamless user experiences, optimizing performance, and bringing designs to life with clean, maintainable code.
 
 ---
 
